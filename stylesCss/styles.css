@@ -1,0 +1,11 @@
+.container{
+    background-image:url('../imagenes/fight.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+    color:aliceblue;
+}
+
+
